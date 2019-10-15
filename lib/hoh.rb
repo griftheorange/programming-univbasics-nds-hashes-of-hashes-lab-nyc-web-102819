@@ -31,7 +31,5 @@
  }
 
 def naming_system
-  {
-    
-  }
+  PORTION_1[:sub_category][]
 end
